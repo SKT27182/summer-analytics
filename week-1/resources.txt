@@ -1,0 +1,26 @@
+Python basic
+  https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7
+
+numpy
+  https://www.youtube.com/watch?v=QUT1VHiLmmI
+
+pandas
+  https://www.youtube.com/watch?v=QUT1VHiLmmI
+
+matplotlib
+  https://www.youtube.com/watch?v=MbKrSmoMads
+
+seaborn
+  https://www.klipfolio.com/blog/starter-guide-to-data-visualizations
+  https://www.geeksforgeeks.org/data-visualization-with-python-seaborn/#:~:text=Seaborn%20is%20an%20amazing%20visualization,the%20data%20structures%20from%20pandas
+
+data types in stats
+  https://towardsdatascience.com/data-types-in-statistics-347e152e8bee
+
+Measures of Central Tendency, Range and St. Deviation (Videos 3-7)
+  https://www.youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR
+
+Density curves and Normal Distributions (Videos 18-19)
+  https://www.youtube.com/playlist?list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR
+
+
