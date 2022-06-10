@@ -1,0 +1,56 @@
+Bias-Variance Tradeoff 1
+    https://www.youtube.com/watch?v=SjQyLhQIXSM
+
+Bias-Variance Tradeoff 2
+    https://www.youtube.com/watch?v=EuBBz3bI-aA
+
+Bias-Variance Tradeoff Blog
+    https://medium.com/@itbodhi/bias-and-variance-trade-off-542b57ac7ff4
+
+Regularization (Videos 7.1 - 7.4)
+    https://www.youtube.com/watch?v=u73PU6Qwl1I&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=40
+
+L1 and L2 Regularization Blog 1
+    https://www.analyticssteps.com/blogs/l2-and-l1-regularization-machine-learning?fbclid=IwAR1pkL-RKR0xkKkdXtC1Tjcqm7CRX-FTD64U-nwNZYm_qnP2HEhhUdx0wW8
+
+L1 and L2 Regularization Blog 2
+    https://towardsdatascience.com/intuitions-on-l1-and-l2-regularisation-235f2db4c261
+
+Lasso and Ridge Regression
+    https://www.youtube.com/watch?v=VqKq78PVO9g
+
+Support Vector Machines
+    https://www.youtube.com/watch?v=FB5EdxAGxQg
+
+Support Vector Machine algorithm (along with code)
+    https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
+
+All Feature Transformations
+    https://www.youtube.com/watch?v=3gfhbXt9TcQ
+
+Feature Transformation and Scaling
+    https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/
+
+Label Encoding and One-Hot Encoding
+    https://www.youtube.com/watch?v=irHhDMbw3xo
+
+Guide to Encoding Categorical Values in Python
+    https://pbpython.com/categorical-encoding.html
+
+[Video] The Confusion Matrix
+    https://www.youtube.com/watch?v=Kdsp6soqA7o
+
+[Blog] Confusion Matrix for Machine Learning
+    https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/
+
+[Video] AUC-ROC Curve
+    https://www.youtube.com/watch?v=4jRBRDbJemM
+
+[Blog] AUC-ROC Curve 
+    https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/?fbclid=IwAR3NiyvLoVEQxRCerb5A3YVU8Qtuf9fpnG5ERWGLBQsfKbpvfuccI-7DI7U
+
+Evaluation Metrics
+    https://medium.com/ml-cheat-sheet/machine-learning-evaluation-metrics-b89b8832e275
+
+Evaluation Metrics - along with code (optional topics - Gain and Lift Charts, Kolmogorov Smirnov Chart 
+    https://www.kdnuggets.com/2020/05/model-evaluation-metrics-machine-learning.html
