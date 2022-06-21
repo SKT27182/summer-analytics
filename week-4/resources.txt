@@ -1,0 +1,50 @@
+Decision Trees (Videos 43 - 46)
+	https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+
+Random Forest (Videos 48 - 49)
+	https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+	
+Random Forest Code
+	https://www.youtube.com/watch?v=ok2s1vV9XW0
+
+Intro to ML Kaggle Course 
+	https://www.kaggle.com/learn/intro-to-machine-learning
+	
+Gradient Boosting Blog/Code
+	https://www.analyticsvidhya.com/blog/2021/04/how-the-gradient-boosting-algorithm-works/
+	
+XGBoost Blog/Code
+	https://www.geeksforgeeks.org/xgboost/
+	
+Gradient Regression Documentation
+	https://scikit-learn.org/dev/auto_examples/ensemble/plot_gradient_boosting_regression.html
+	
+Intermediate ML Kaggle Course
+	https://www.kaggle.com/learn/intermediate-machine-learning
+	
+(Optional: Practical XGBoost, LightGBM, Catboost)
+	https://machinelearningmastery.com/gradient-boosting-with-scikit-learn-xgboost-lightgbm-and-catboost/
+	
+Naive Baye's (Video)
+	https://www.youtube.com/watch?v=jS1CKhALUBQ
+	
+Naive Baye's (Blog)
+	https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/?
+	
+Gaussian Naive Baye's (Video)
+	https://www.youtube.com/watch?v=H3EjCKtlVog&ab_channel=StatQuestwithJoshStarmer
+	
+Gaussian Naive Baye's (Blog) 
+	https://www.analyticsvidhya.com/blog/2021/11/implementation-of-gaussian-naive-bayes-in-python-sklearn/
+	
+(Optional: Videos 64-68 XGBoost)
+	https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+	
+KNN Video
+	https://www.youtube.com/watch?v=HVXime0nQeI
+	
+KNN Blog 
+	https://towardsdatascience.com/k-nearest-neighbors-knn-explained-cbc31849a7e3
+
+KNN Code 
+	https://www.analyticsvidhya.com/blog/2021/01/a-quick-introduction-to-k-nearest-neighbor-knn-classification-using-python/
