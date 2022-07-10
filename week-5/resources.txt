@@ -1,0 +1,29 @@
+Neural Networks (8.1 - 9.8)
+	https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+	
+Understanding Neural Networks 
+	https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+	
+Neural Networks with Python
+	https://www.youtube.com/watch?v=ubgwaNhU5v8
+	
+Regression with Keras
+	https://www.pluralsight.com/guides/regression-keras/
+	
+Classification with Keras 
+	https://www.pluralsight.com/guides/classification-keras
+	
+Neural Networks with Keras
+	https://www.youtube.com/watch?v=wQ8BIBpya2k&feature=youtu.be
+	
+Unsupervised Learning 
+	https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a
+	
+K-means Clustering 
+ 	https://www.youtube.com/watch?v=4b5d3muPQmA
+ 	
+Dimensionality reduction(PCA) 14.1 - 14.7 
+	https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+	
+PCA using sklearn
+	https://www.youtube.com/watch?v=QdBy02ExhGI&feature=youtu.be
